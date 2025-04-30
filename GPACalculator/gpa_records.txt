@@ -1,0 +1,30 @@
+
+=== GPA RECORD ===
+Student: Afriyie Donkor 
+ID: 10211100407
+COURSE          CREDITS  GRADE  POINTS
+--------------------------------------
+Information...      3    A       12.0
+Mobile comp...      2    B        6.0
+Wireless ne...      3    A       12.0
+
+SUMMARY:
+Total Courses: 3
+Total Credits: 8
+GPA: 3.75
+Status: Excellent
+=================
+
+=== GPA RECORD ===
+Student: Afriyie 
+ID: 10211100407
+COURSE          CREDITS  GRADE  POINTS
+--------------------------------------
+Information...      3    B        9.0
+
+SUMMARY:
+Total Courses: 1
+Total Credits: 3
+GPA: 3.00
+Status: Good
+=================
